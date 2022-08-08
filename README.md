@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a The Euromillions in Python
+- 🔭 I’m currently working on The Euromillions in Python
 - 🌱 I’m currently learning C# and Python
 - 💬 Ask me about anything on my repositories
 - 📫 Contact me on Discord: eusouorui#5010 
